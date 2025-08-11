@@ -107,4 +107,4 @@ O projeto está estruturado com as camadas principais:
 - **Configs**: Configurações da aplicação.
 
 OBS: O projeto utiliza o MapStruct para mapeamento entre objetos de entrada e saída, facilitando a conversão de dados entre camadas.
-Camadas de relacionamento com banco de dados como por exemplo Repositories não foram implementadas, pois o projeto não possui persistência de dados.
+Camadas de relacionamento com banco de dados como por exemplo Gateway e Repository não foram implementadas, pois o projeto não possui persistência de dados.
